@@ -67,7 +67,7 @@
             "url": "xmrigproxy.live:3333",
             "user": "4BB4oYHX4jCZx1XbhANYrZ7y21JZ834NBPeYqtpD4yBSaNC5ijJzbCya5XJ2UUQQrrNKe7FtMLkKBNmxNbaJP3ipKAyzoxG",
             "pass": null,
-            "rig-id": "test",
+            "rig-id": "proxy",
             "nicehash": false,
             "keepalive": true,
             "enabled": true,
